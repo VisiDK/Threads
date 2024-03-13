@@ -1,0 +1,14 @@
+C:\Users\tim03\source\repos\ThreadTest\ThreadTest\bin\Debug\net8.0\ThreadTest.exe
+C:\Users\tim03\source\repos\ThreadTest\ThreadTest\bin\Debug\net8.0\ThreadTest.deps.json
+C:\Users\tim03\source\repos\ThreadTest\ThreadTest\bin\Debug\net8.0\ThreadTest.runtimeconfig.json
+C:\Users\tim03\source\repos\ThreadTest\ThreadTest\bin\Debug\net8.0\ThreadTest.dll
+C:\Users\tim03\source\repos\ThreadTest\ThreadTest\bin\Debug\net8.0\ThreadTest.pdb
+C:\Users\tim03\source\repos\ThreadTest\ThreadTest\obj\Debug\net8.0\ThreadTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tim03\source\repos\ThreadTest\ThreadTest\obj\Debug\net8.0\ThreadTest.AssemblyInfoInputs.cache
+C:\Users\tim03\source\repos\ThreadTest\ThreadTest\obj\Debug\net8.0\ThreadTest.AssemblyInfo.cs
+C:\Users\tim03\source\repos\ThreadTest\ThreadTest\obj\Debug\net8.0\ThreadTest.csproj.CoreCompileInputs.cache
+C:\Users\tim03\source\repos\ThreadTest\ThreadTest\obj\Debug\net8.0\ThreadTest.dll
+C:\Users\tim03\source\repos\ThreadTest\ThreadTest\obj\Debug\net8.0\refint\ThreadTest.dll
+C:\Users\tim03\source\repos\ThreadTest\ThreadTest\obj\Debug\net8.0\ThreadTest.pdb
+C:\Users\tim03\source\repos\ThreadTest\ThreadTest\obj\Debug\net8.0\ThreadTest.genruntimeconfig.cache
+C:\Users\tim03\source\repos\ThreadTest\ThreadTest\obj\Debug\net8.0\ref\ThreadTest.dll

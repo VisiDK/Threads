@@ -1,0 +1,14 @@
+C:\Users\tim03\source\repos\Treads\Treads\bin\Debug\net8.0\Treads.exe
+C:\Users\tim03\source\repos\Treads\Treads\bin\Debug\net8.0\Treads.deps.json
+C:\Users\tim03\source\repos\Treads\Treads\bin\Debug\net8.0\Treads.runtimeconfig.json
+C:\Users\tim03\source\repos\Treads\Treads\bin\Debug\net8.0\Treads.dll
+C:\Users\tim03\source\repos\Treads\Treads\bin\Debug\net8.0\Treads.pdb
+C:\Users\tim03\source\repos\Treads\Treads\obj\Debug\net8.0\Treads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tim03\source\repos\Treads\Treads\obj\Debug\net8.0\Treads.AssemblyInfoInputs.cache
+C:\Users\tim03\source\repos\Treads\Treads\obj\Debug\net8.0\Treads.AssemblyInfo.cs
+C:\Users\tim03\source\repos\Treads\Treads\obj\Debug\net8.0\Treads.csproj.CoreCompileInputs.cache
+C:\Users\tim03\source\repos\Treads\Treads\obj\Debug\net8.0\Treads.dll
+C:\Users\tim03\source\repos\Treads\Treads\obj\Debug\net8.0\refint\Treads.dll
+C:\Users\tim03\source\repos\Treads\Treads\obj\Debug\net8.0\Treads.pdb
+C:\Users\tim03\source\repos\Treads\Treads\obj\Debug\net8.0\Treads.genruntimeconfig.cache
+C:\Users\tim03\source\repos\Treads\Treads\obj\Debug\net8.0\ref\Treads.dll
